@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/index.css">
+    <link rel="stylesheet" href="dist/output.css">
     <title>Noor Food</title>
 </head>
 <body>
-    
+    <h1 class="text-3xl font-bold underline">
+    Hello world!
+    </h1>
 </body>
 </html>
